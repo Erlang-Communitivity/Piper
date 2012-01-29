@@ -1,0 +1,12 @@
+{application, piper,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { piper_app, []}},
+  {env, []}
+ ]}.

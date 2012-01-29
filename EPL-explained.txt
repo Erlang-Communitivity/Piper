@@ -1,0 +1,63 @@
+English translation of the Erlang Public License legal text.
+
+Please note that the text below is intended to help you to understand
+the legal text. The legal text is the license, so if you have any
+doubts, refer to the legal text.
+
+2.1, 2.2: You can use, copy, sub license and distribute Open Source
+Eddie from Ericsson and parts contributed by others, without cost and
+on a non exclusive basis. We don't take any responsibility for any 3rd
+part IPR claims that may turn up.
+
+3.1: If you distribute Open Source Eddie you have to include the
+license agreement and not add anything which restricts the people to
+whom you distribute Eddie.
+
+3.2: Modifications which you contribute must be available as Source
+Code and be available for 12 months (or six months if a new version
+becomes available).
+
+3.3 If you modify any Covered Code, you have to tell us what you have
+modified, when you did it, and credit us for the Original Code.  
+
+3.4: If there are some legalities e.g. you think you may be using
+someone else's or your own IPR in code you submit, you must add a file
+called LEGAL to what you contribute and tell us all about it.
+
+3.5: You must put the copyright notice specified in Exhibit A in all
+files you contribute. If you can not insert the copyright notice,
+insert a pointer to a file containing it.  If you make any guarantees
+or offer any support any part of Eddie, you're on your own. 
+
+3.6: If you distribute binary files only, you must tell people where
+they can get the source code. If you make your own license agreement,
+you must comply with this license anyway and if you offer anything
+extra in such a license, you're on your own.
+
+3.7 If you use Covered Code in a larger work, fine, but the Covered
+Code is still governed by the terms of this license.
+
+
+4: If there are laws that prevent you from following this license, you
+should follow this license anyway as far as you can. Describe any
+restrictions that these laws imply in the LEGAL file. 
+
+5: This license applied to all Eddie code that is covered by the Eddie
+copyright notice.
+
+6. This is a modification of the Mozilla license.
+
+7. We are not giving you any guarantees. If Eddie doesn't work or it
+causes you damage in any way, tough luck! 
+
+8. If you don't comply with the terms of this license, your rights
+under it lapse in 30 days. Any sublicenses are still covered by this
+license.
+
+9: We aren't responsible for any damages, direct or indirect, caused
+by this code.
+
+10. This is the whole license. Any disagreements are settled under
+Swedish law in English.
+
+Exhibit A - copyright notice to include in source files and documentation.
